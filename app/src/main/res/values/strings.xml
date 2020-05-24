@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question_declaration">Question Declaration</string>
+    <string name="false_text">False</string>
+    <string name="true_text">True</string>
+    <string name="next_text">next_text</string>
+    <string name="correct_answer">Correct</string>
+    <string name="wrong_answer">Wrong</string>
+    <string name="question_cyclone">Cyclones spin in a clockwise direction in the southern hemisphere</string>
+    <string name="question_fish">Goldfish only have a memory of three seconds</string>
+    <string name="question_capital">The capital of Libya is Benghazi</string>
+    <string name="question_language">Brazil is the only country in the Americas to have the official language of Portuguese</string>
+    <string name="question_tunnel">the Channel Tunnel is the longest rail tunnel in the world</string>
+    <string name="question_empire">Darth Vader famously says the line “Luke, I am your father” in The Empire Strikes Back</string>
+    <string name="question_stephen">Stephen Hawking declined a knighthood from the Queen</string>
+    <string name="question_mountain">The highest mountain in England is Ben Nevis</string>
+    <string name="question_statue">The Statue of Liberty was a gift from France</string>
+    <string name="question_space">The Great Wall of China is visible from space</string>
+    <string name="question_tech1">Whaling attack is a kind of phishing attacks that target senior executives and other high profile to access valuable information.</string>
+    <string name="question_tech2">Freeware is software that is available for use at no monetary cost.</string>
+    <string name="question_tech3">The hexadecimal number system contains digits from 1 - 15.</string>
+    <string name="question_tech4">Octal number system contains digits from 0 - 7.</string>
+    <string name="question_tech5">MS Word is a hardware.</string>
+    <string name="question_tech6">CPU controls only input data of computer.</string>
+    <string name="question_tech7">GNU / Linux is a open source operating system.</string>
+    <string name="question_tech8">Worms and trojan horses are easily detected and eliminated by antivirus software.</string>
+    <string name="question_tech9">Twitter is an online social networking and blogging service.</string>
+</resources>
